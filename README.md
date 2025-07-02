@@ -12,6 +12,11 @@
 *** Custom theme layout using Elementor widgets and blocks
 
 
+
+
+
+
+
 🛠️ Technologies Used
 *** WordPress CMS
 
